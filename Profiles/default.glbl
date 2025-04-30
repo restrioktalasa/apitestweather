@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'69aeabf4cdde93097480ab28595b0da1'</initValue>
+      <name>apikey</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
